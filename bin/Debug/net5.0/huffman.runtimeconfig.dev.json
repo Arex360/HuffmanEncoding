@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Arex\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Arex\\.nuget\\packages"
+    ]
+  }
+}

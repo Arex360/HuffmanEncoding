@@ -1,0 +1,16 @@
+C:\Users\Arex\Desktop\huffman\bin\Debug\net5.0\huffman.exe
+C:\Users\Arex\Desktop\huffman\bin\Debug\net5.0\huffman.deps.json
+C:\Users\Arex\Desktop\huffman\bin\Debug\net5.0\huffman.runtimeconfig.json
+C:\Users\Arex\Desktop\huffman\bin\Debug\net5.0\huffman.runtimeconfig.dev.json
+C:\Users\Arex\Desktop\huffman\bin\Debug\net5.0\huffman.dll
+C:\Users\Arex\Desktop\huffman\bin\Debug\net5.0\ref\huffman.dll
+C:\Users\Arex\Desktop\huffman\bin\Debug\net5.0\huffman.pdb
+C:\Users\Arex\Desktop\huffman\obj\Debug\net5.0\huffman.csprojAssemblyReference.cache
+C:\Users\Arex\Desktop\huffman\obj\Debug\net5.0\huffman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arex\Desktop\huffman\obj\Debug\net5.0\huffman.AssemblyInfoInputs.cache
+C:\Users\Arex\Desktop\huffman\obj\Debug\net5.0\huffman.AssemblyInfo.cs
+C:\Users\Arex\Desktop\huffman\obj\Debug\net5.0\huffman.csproj.CoreCompileInputs.cache
+C:\Users\Arex\Desktop\huffman\obj\Debug\net5.0\huffman.dll
+C:\Users\Arex\Desktop\huffman\obj\Debug\net5.0\ref\huffman.dll
+C:\Users\Arex\Desktop\huffman\obj\Debug\net5.0\huffman.pdb
+C:\Users\Arex\Desktop\huffman\obj\Debug\net5.0\huffman.genruntimeconfig.cache
