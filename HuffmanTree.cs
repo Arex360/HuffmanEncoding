@@ -1,5 +1,5 @@
 using System;
-// what the heck
+
 namespace HuffmanEncodiong
 {
   class HuffmanTree
